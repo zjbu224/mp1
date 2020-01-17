@@ -24,6 +24,7 @@ import org.joda.time.base.AbstractInstant;
  *
  * @author Stephen Colebourne
  */
+//This is a test
 public class ClassLoadTest {
 
     // run using JVM -verbose:class
